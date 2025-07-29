@@ -8,3 +8,4 @@ This is a simple Java project where players try to guess a randomly generated nu
 • Simple and user-friendly interface
 
 Used Java
+https://github.com/fatma00prg/simple-java-project
